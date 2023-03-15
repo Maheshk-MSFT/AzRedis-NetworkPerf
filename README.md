@@ -1,4 +1,4 @@
-# AzRedis-NetworkPerf-Metrics-Monitoring-Bandwidth
+# AzRedis-NetworkPerf-Metrics(Bandwidth)
 AzRedis-NetworkPerf-Metrics-Monitoring-Bandwidth
 
 Network Bandwidth
