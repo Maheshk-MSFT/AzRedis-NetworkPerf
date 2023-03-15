@@ -16,7 +16,8 @@ https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-monit
 
 <img width="784" alt="2" src="https://user-images.githubusercontent.com/61469290/225243221-4c5dd794-42c0-4cc0-bbf3-e8ff9a08a285.png">
 
-<img width="807" alt="3" src="https://user-images.githubusercontent.com/61469290/225243255-f8191704-cc84-49cd-9776-0424f07f1da7.png">
+<img width="956" alt="3" src="https://user-images.githubusercontent.com/61469290/225348003-aa511ec6-4b57-4909-934a-39f6fcc0cf87.png">
+
 
 List of metrics
 ```
