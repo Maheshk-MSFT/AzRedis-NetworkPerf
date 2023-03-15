@@ -6,8 +6,8 @@ Network Bandwidth
 
 > If your Redis server is exceeding available network bandwidth, you should consider scaling up to a larger cache size with higher network bandwidth.
 
-> Network monitoring
-ttps://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-scale?WT.mc_id=wwc-aces
+Network monitoring
+https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-scale?WT.mc_id=wwc-aces
 https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-monitor#create-alerts
 
 <img width="640" alt="4" src="https://user-images.githubusercontent.com/61469290/225243289-82166899-1ee0-4ba7-813d-41025df1721d.png">
